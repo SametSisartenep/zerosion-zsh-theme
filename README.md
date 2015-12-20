@@ -2,6 +2,8 @@
 
 Born to make you happy.
 
+![ZErosion screenshot](zerosion-in-action.png)
+
 ## License
 
 [![CC0 Universal
